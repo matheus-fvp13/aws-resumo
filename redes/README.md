@@ -1,6 +1,6 @@
 # Redes na AWS
 
-## Amazon VPC (Virtual Provate Cloud)
+## Amazon VPC (Virtual Private Cloud)
 
 ### Como organizar nossos recursos na AWS?
 Em um escritório os computadores seriam conectados por uma série de dispositivos de redes
